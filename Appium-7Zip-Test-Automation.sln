@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appium-7Zip-Test-Automation", "Appium-7Zip-Test-Automation.csproj", "{58F35CD5-1466-4DE9-B48B-EE22F53150B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F35CD5-1466-4DE9-B48B-EE22F53150B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F35CD5-1466-4DE9-B48B-EE22F53150B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F35CD5-1466-4DE9-B48B-EE22F53150B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F35CD5-1466-4DE9-B48B-EE22F53150B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF1C4D5-2E1A-40A3-A895-9A0AA52A2E85}
+	EndGlobalSection
+EndGlobal
