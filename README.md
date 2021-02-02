@@ -1,9 +1,9 @@
-# Appium-7Zip-Test-Automation
-Appium-based automated UI test for the 7-Zip archiver (https://www.7-zip.org).
+# 7Zip Test Automation with Appium
+Appium-based automated UI test for the 7-Zip file archiver (https://www.7-zip.org).
 
 ## Test Automation Scenario
 
-Using NUnit and Appium, create a 7-Zip archive, holding all the files from the 7-Zip program folder with LZMA2 maximum compression level, then extract the archive and compare the original and the extracted files.
+Using NUnit, Appium and WinAppDriver, create a unit test, which creates a 7-Zip archive, holding all the files from the 7-Zip program folder with LZMA2 maximum compression level, then extracts the archive and compares the original and the extracted files.
 
 ## Technologies and Tools
 Appium Desktop, C#, NUnit, Appium.WebDriver, WinAppDriver
